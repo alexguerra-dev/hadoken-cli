@@ -1,0 +1,8 @@
+{
+  "name": "hadoken-cli",
+  "version": "1.0.0",
+  "description": "Give it a combo. It will make a pretty picture.",
+  "main": "index.js",
+  "author": "Alex Guerra <alexander.a.guerra@gmail.com>",
+  "license": "MIT"
+}
